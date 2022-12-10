@@ -1,5 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Afif</h1>
 <h3 align="center">A Passionate Java Developer From Algeria</h3>
+
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
 
 - 🌱 I’m currently learning **Flutter,Java Spring...**
 
